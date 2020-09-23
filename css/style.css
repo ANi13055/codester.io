@@ -210,8 +210,8 @@ main button {
   -webkit-transition: 250ms ease-out;
   transition: 250ms ease-out;
   z-index: -1;
-  -webkit-box-shadow: 0 0 20px -10px rgba(209, 224, 219, 0.8);
-          box-shadow: 0 0 20px -10px rgba(209, 224, 219, 0.8);
+  -webkit-box-shadow: 0 0 30px -10px rgba(209, 224, 219, 0.8);
+          box-shadow: 0 0 30px -10px rgba(209, 224, 219, 0.8);
 }
 
 .content .blogs .article {
